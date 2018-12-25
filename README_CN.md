@@ -1,6 +1,6 @@
-# Scope1 3-9X40 Riflescope 
+# Scope01 3-9X40 Riflescope 
 
-###### Translation
+###### 翻译
 
 > `英文` 请参考 [`这里`](https://github.com/njustcjj/Scope1-3-9X40-Riflescope/blob/master/README.md)
 
@@ -11,15 +11,14 @@
 ![](https://github.com/njustcjj/Scope1-3-9X40-Riflescope/blob/master/pic/Scope01_3.jpg "Turret")
 
 
-### Product Introduction
+### 产品介绍
 
-> 3-9X40 Riflescope is a very popular scope. 3-9X applies to the 100 yards hunting. It is the best choice for hunting small game and a standard configuration in deer hunting. Besides, it is also applicable for large prey hunting in some case. Large caliber objective lens and multiple anti-reflective coating provide the sniper a bright view, which ensure the good performance even in dim weather. This scope has far eye relief and precise turret adjustment, which reflect the excellent optical design and strict processing craft.
-
+> 3-9X40 Riflescope 是一款非常流行的枪瞄。3-9X适用于100码范围的射程，是小型狩猎的最佳选择倍率，部分倍率也适用于大型猎物狩猎，也是打鹿的标准配置。大口径的物镜及多层镀膜为该款枪瞄提供了明亮的视野，保证了在昏暗的天气下亦有出色的狙击表现。远的出瞳距、极小的视差以及精准的调节精度体现了优良的设计和严苛的加工工艺。
 > 
-> Note: The rifle caliber for small game includes:.17M2、.17HMR、.5mm Rem、.22LR、.22WRF and .22WMR.
+> 注：小型猎枪口径包括：.17M2、.17HMR、.5mm Rem、.22LR、.22WRF和.22WMR。
 
 
-### Specification
+### 产品参数
 
 - Brand：FERMAT
 - MPN：RF-01
@@ -34,7 +33,6 @@
 - Reticle：Wire，Crosshair
 - Resolution：7.5''
 - Working Temperature：-40 ~ +52℃(or -40 ~ +125.6℉)
-
 
 #### Key Features
 
@@ -53,20 +51,22 @@
 |Diopter Compensation|±2||
 
 
+![](https://github.com/njustcjj/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/pic/SENZ014_pin.jpg "引脚定义") 
+
 
 ### Payment & Delivery Details
 
 #### Payment Method
 
-- We accept PayPal, Visa/ MasterCard, Discover.
+- We accepted PayPal, Visa/ MasterCard, Discover.
 - Payment must be received within 3 days from the date of purchase.
 - Tax is buyer's duty, it is not included in our buy it now price.
 
 #### Delivery Details
 
 - Package includes: 1 x 3-9X40 Riflescope.
-- **Economy shipping** only.
 - Shipping to: USA, Canada, EU, Australia, New Zealand, Brazil.
+- **Economy shipping** Only.
 - Shipping within 3 business days once payment completed.
 - We ship to your eBay address only，please check your shipping address carefully before checkout, it can't be changed once order completed.
 
@@ -102,4 +102,3 @@
 3. If you have any questions, please feel free to email our service specialists 24 Hours a Day, We will reply you ASAP. If no response within 24 Hours, please check the spam in your mail box. 
 4. Our aim is to provide Top Level Customer Service, so we will try our best to solve any problem.
 5. We greatly appreciate your POSITIVE feedback. Our system will automatically leave you very good feedback after your payment completed.
-
