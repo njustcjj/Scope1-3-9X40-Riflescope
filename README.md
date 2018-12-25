@@ -33,7 +33,7 @@
 - Lens Coating：FMC Green
 - Reticle：Wire，Crosshair
 - Resolution：7.5''
-- Working Temperature：-40 ~ +52℃(or -40 ~ +125.6℉)
+- Working Temperature：-40 ~ +52℃( or -40 ~ +125.6℉ )
 
 
 #### Key Features
@@ -64,7 +64,7 @@
 
 #### Delivery Details
 
-- Package includes: 1 x 3-9X40 Riflescope.
+- Package includes: 1 piece 3-9X40 Riflescope.
 - **Economy shipping** only.
 - Shipping to: USA, Canada, EU, Australia, New Zealand, Brazil.
 - Shipping within 3 business days once payment completed.
@@ -87,7 +87,7 @@
 
 ### About us
 
-1. We are wholesale seller on ebay, and we accept the **customization**, welcome your inquiry from ebay！
+1. We are wholesale seller on ebay, and we **accept the batch order**, welcome your inquiry from ebay！
 2. For more kinds of our riflescope,  please click
 
 	[`4-12x44`](https://)
