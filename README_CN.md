@@ -6,9 +6,9 @@
 
 > `中文` 请参考 [`这里`](https://github.com/njustcjj/Scope1-3-9X40-Riflescope/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/Scope1-3-9X40-Riflescope/blob/master/picture/Scope01_1.png "Overview")
-![](https://github.com/njustcjj/Scope1-3-9X40-Riflescope/blob/master/picture/Scope01_2.png "Objective_Lens")
-![](https://github.com/njustcjj/Scope1-3-9X40-Riflescope/blob/master/picture/Scope01_3.png "Turret")
+![](https://github.com/njustcjj/Scope1-3-9X40-Riflescope/raw/master/picture/Scope01_1.png "Overview")
+![](https://github.com/njustcjj/Scope1-3-9X40-Riflescope/raw/master/picture/Scope01_2.png "Objective_Lens")
+![](https://github.com/njustcjj/Scope1-3-9X40-Riflescope/raw/master/picture/Scope01_3.png "Turret")
 
 
 ### 产品介绍

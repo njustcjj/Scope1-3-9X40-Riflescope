@@ -30,4 +30,4 @@ h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:400}
 .ag7-bannerslide .slidelist{position:absolute;right:0;bottom:0;width:80px;height:498px;color:#fff;font-size:16px;background-color:#222}
 .ag7-bannerslide .slidelist ul{position:absolute;z-index:10;width:100%;text-align:center}
 .ag7-bannerslide .slidelist ul li{width:100%;line-height:36px;margin:10px 0 15px;cursor:pointer}
-.ag7-bannerslide .slidelist .mask{width:90px;height:36px;position:absolute;left:-10px;top:10px;background:url(../images/mask_01.png) no-repeat center center;display:block}
+.ag7-bannerslide .slidelist .mask{width:90px;height:36px;position:absolute;left:-10px;top:10px;background:url("https://github.com/njustcjj/Scope1-3-9X40-Riflescope/raw/master/images/mask_01.png") no-repeat center center;display:block}
