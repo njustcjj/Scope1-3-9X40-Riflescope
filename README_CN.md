@@ -99,6 +99,12 @@
 
 	More riflescope is on pushing..
 
+/*
+交叉推销时：
+We recommend using **Promotions Manager** to merchandise relevant items. See the Grow Your Business seller page for more information on Promotions Manager. An example of how a promotion appears on your View Item page is below, just above the product image.
+Since your items compete against other sellers' items on eBay, promotions help yours stand out. They also drive traffic to your Store, where shoppers see more of your relevant inventory. That helps you sell more per visit. APIs for third party partners are available now.
+*/
+
 3. If you have any questions, please feel free to email our service specialists 24 Hours a Day, We will reply you ASAP. If no response within 24 Hours, please check the spam in your mail box. 
 4. Our aim is to provide Top Level Customer Service, so we will try our best to solve any problem.
 5. We greatly appreciate your POSITIVE feedback. Our system will automatically leave you very good feedback after your payment completed.

@@ -81,7 +81,7 @@
 
 ##### Refund & Replacement
 
-1. Refund or replacement request is available only the requests within 1 week after parcel received & returning the item as the same condition as received.
+1. Refund or replacement request is available only the requests within 2 week after parcel received & returning the item as the same condition as received.
 2. Please contact us to request a return authorization. Your name, auction number, and reason for return should be included in the email. All items returned must contain all original packaging materials.
 3. Buyer pays for return shipping.
 
@@ -98,6 +98,12 @@
 	[![](https://github.com/njustcjj/SENZ014-0.96inch-I2C-OLED-12864-Display/blob/master/pic/SENZ014_front.jpg "SENZ014_Front")](https://)
 
 	More riflescope is on pushing..
+
+/*
+交叉推销时：
+We recommend using **Promotions Manager** to merchandise relevant items. See the Grow Your Business seller page for more information on Promotions Manager. An example of how a promotion appears on your View Item page is below, just above the product image.
+Since your items compete against other sellers' items on eBay, promotions help yours stand out. They also drive traffic to your Store, where shoppers see more of your relevant inventory. That helps you sell more per visit. APIs for third party partners are available now.
+*/
 
 3. If you have any questions, please feel free to email our service specialists 24 Hours a Day, We will reply you ASAP. If no response within 24 Hours, please check the spam in your mail box. 
 4. Our aim is to provide Top Level Customer Service, so we will try our best to solve any problem.
